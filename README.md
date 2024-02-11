@@ -1,4 +1,4 @@
 # SteamBot
 
-App using [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) & headless chrome drivers.
-Tool to manage trading items across multiple accounts.
+Tool using [ArchiSteamFarm](https://github.com/JustArchiNET/ArchiSteamFarm) & headless chrome drivers.
+Manages trading items across multiple accounts.
